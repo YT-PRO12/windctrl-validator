@@ -1,0 +1,17 @@
+{
+  "configuration": {
+    "tolerance_pct": 5.0,
+    "zero_tolerance_kw": 0.5,
+    "max_generator_temp_c": 100.0
+  },
+  "metrics": {
+    "total_tests": 360,
+    "passed_tests": 323,
+    "failed_tests": 37,
+    "pass_pct": 89.72,
+    "average_error_pct": 1.6019,
+    "maximum_error_pct": 12.0,
+    "maximum_deviation_kw": 240.0,
+    "percentage_comparable_rows": 357
+  }
+}

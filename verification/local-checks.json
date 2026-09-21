@@ -1,0 +1,14 @@
+{
+  "project": "windctrl-validator",
+  "tests": 34,
+  "failed": 0,
+  "errors": 0,
+  "line_and_branch_coverage_pct": 87.44,
+  "environment": {
+    "platform": "Linux",
+    "python": "3.12.14"
+  },
+  "github_status": "not_published",
+  "remote_ci_status": "not_run",
+  "deployment_status": "not_deployed"
+}

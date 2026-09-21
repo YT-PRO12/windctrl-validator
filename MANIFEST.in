@@ -1,0 +1,11 @@
+include requirements*.txt README.md LICENSE VERIFICATION.md
+recursive-include tests *.py
+recursive-include verification *.xml *.json
+recursive-include scripts *.py
+recursive-include .github/workflows *.yml
+include streamlit_app.py DEPLOYMENT.md
+recursive-include .streamlit *.toml
+recursive-include data *.csv *.md
+recursive-include assets *.png
+recursive-include matlab *.m
+recursive-include reports/example *.json *.csv *.png *.tex *.pdf
